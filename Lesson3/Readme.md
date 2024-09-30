@@ -23,6 +23,7 @@
 2. Активуйте опцію **Enable EFI (special OSes only)**.
 3. Переконайтеся, що мережевий адаптер налаштований на тип **Bridged Adapter**, щоб VM могла отримати IP-адресу з локальної мережі.
    ![Знімок](images/step2_memory.png)
+
    ![Знімок](images/updated_net.png)
    
 
